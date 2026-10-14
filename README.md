@@ -458,7 +458,7 @@ Docker Compose service names, environment variables, ports, and MongoDB persiste
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/shiftvane.git
+git clone https://github.com/ashhuxt/shiftvane.git
 cd shiftvane
 ```
 
