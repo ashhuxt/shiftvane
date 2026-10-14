@@ -663,12 +663,6 @@ The roadmap should evolve according to actual user requirements and measured sys
 
 ---
 
-## License
-
-This project is distributed under the MIT License. See the [`LICENSE`](./LICENSE) file for the complete terms.
-
----
-
 <p align="center">
   <strong>Shiftvane</strong><br/>
   Consistent attendance calculations. Traceable corrections. Measurable database behavior.
