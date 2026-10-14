@@ -420,7 +420,7 @@ Choose one of the following environments:
 Replace the URL below with the actual repository URL if it differs.
 
 ```bash
-git clone https://github.com/asuhhxt/shiftvane.git
+git clone https://github.com/ashhuxt/shiftvane.git
 cd shiftvane
 ```
 
